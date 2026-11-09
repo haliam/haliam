@@ -1,10 +1,8 @@
-# Hi, I'm Haliam
+# Hi, I'm Haliam /  [LinkedIn](https://www.linkedin.com/in/haliam)
 
 **Senior software engineer & tech lead** building AI and agentic applications. Based in London, UK.
 
 I have 6+ years of experience delivering production APIs and microservices for consulting clients in .NET and Python, and I now focus on LLM-powered systems that are governed, testable and safe to run in production.
-
-## 📫 Get in touch [LinkedIn](https://www.linkedin.com/in/haliam)
 
 ## 🔭 Featured project
 
